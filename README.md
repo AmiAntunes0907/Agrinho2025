@@ -1,4 +1,7 @@
 # Agrinho2025
 
-No meu trabalho do Agrinho 2025 irei fazer um jogo onde haverá uma corrida de vegetais, o vegetal que for selecionado com o botao do mouse pelo o jogador vai contar sobre a importancia do vegetal para a saude do seres humanos e como ele é feito na fazenda. Após da fala do vegetal aberte no botão Espaço para o fazendeiro chegar e contar sobre o campo e a cidade, logo em seguida haverá perguntas onde o jogador terá que responder de acordo com a fala do fazendeiro, caso errar as perguntas terá que responde novamente.
-Estarei utilizando ajuda do ChatGpt e o GitHub pata pesquisas.
+No meu trabalho do Agrinho 2025 irei fazer um jogo chamado " Misão Agrinho 2025- Fase da Água", onde o jogador precisara fechar as torneiras que estão vazando antes que desperdice muita água.  Torneiras aparecem aleatoriamente na tela e começam a pingar, para ganhar pontos o jogador deve clicar nelas rapidamente.
+Se muita água for desperdiçada, o jogo acaba.
+Queria um tema onde muitas pessoas não percebe que é a Conservação da Água, importância de economizar água no dia a dia, principalmente em ações simples como: Fechar a torneira ao escovar o dente, consertar vazamento rapidamente, reutializar a agua da chuva e etc.
+Este jogo promove a consciência ambiental de forma divertida, incentivando hábitos sustentáveis e a cidadania responsável.
+
